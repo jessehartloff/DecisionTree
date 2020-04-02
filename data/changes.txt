@@ -1,0 +1,4 @@
+The following changes have been made to the source data:
+-The category column was removed
+-The number of legs int value was converted to multiple binary values
+-Animals with identical feature vectors were removed so all animals are unique
